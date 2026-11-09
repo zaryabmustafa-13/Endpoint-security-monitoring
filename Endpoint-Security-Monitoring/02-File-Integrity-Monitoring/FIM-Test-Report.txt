@@ -1,0 +1,19 @@
+File Integrity Monitoring Test
+
+Tool: Windows PowerShell
+Algorithm: SHA-256
+Test file: sysmon-check.txt
+
+Procedure
+
+1. Generated the original SHA-256 hash.
+2. Saved the original hash in "baseline.csv".
+3. Modified the test file by adding a line.
+4. Generated a new SHA-256 hash.
+5. Compared both hashes.
+
+Result
+
+The original and new hashes were different, confirming that the file had been modified.
+
+Status: Successful

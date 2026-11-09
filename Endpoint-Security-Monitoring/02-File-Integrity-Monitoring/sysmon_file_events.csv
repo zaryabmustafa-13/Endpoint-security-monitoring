@@ -1,0 +1,181 @@
+"TimeCreated","Id","Message"
+"11/9/2026 11:58:09 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 19:58:09.158
+ProcessGuid: {af11dc38-19f3-6af2-0502-000000000700}
+ProcessId: 5532
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\p c\Documents\Endpoint-Security-Monitoring\02-File-Integrity-Monitoring\rustinel-yara-test.ps1
+CreationUtcTime: 2026-11-09 19:58:09.157
+User: DESKTOP-A41C87I\p c"
+"11/9/2026 11:07:32 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 19:07:32.469
+ProcessGuid: {af11dc38-19f3-6af2-0502-000000000700}
+ProcessId: 5532
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\p c\AppData\Local\Temp\__PSScriptPolicyTest_hann35tn.oxj.ps1
+CreationUtcTime: 2026-11-09 19:07:32.469
+User: DESKTOP-A41C87I\p c"
+"11/9/2026 11:00:18 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 19:00:18.459
+ProcessGuid: {af11dc38-1557-6af2-7500-000000000700}
+ProcessId: 5132
+Image: C:\ProgramData\Microsoft\Windows Defender\platform\4.18.26100.4-0\MsMpEng.exe
+TargetFilename: C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{075E456F-A529-4452-8BCD-ECCD4FB9387F}\mpengine.dll
+CreationUtcTime: 2026-11-09 19:00:18.458
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 11:00:16 AM","11","File created:
+RuleName: EXE
+UtcTime: 2026-11-09 19:00:16.394
+ProcessGuid: {af11dc38-1573-6af2-d800-000000000700}
+ProcessId: 6648
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\SoftwareDistribution\Download\Install\AM_Delta_Patch_1.463.191.0.exe
+CreationUtcTime: 2026-11-09 19:00:16.394
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:52:10 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 18:52:10.370
+ProcessGuid: {af11dc38-1659-6af2-a101-000000000700}
+ProcessId: 8216
+Image: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+TargetFilename: C:\Users\p c\AppData\Local\Temp\__PSScriptPolicyTest_azyoqhn2.eaf.ps1
+CreationUtcTime: 2026-11-09 18:52:10.370
+User: DESKTOP-A41C87I\p c"
+"11/9/2026 10:50:47 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:50:47.410
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\Tasks\PlatformExperiencesHelper_OnUnlock
+CreationUtcTime: 2026-11-07 09:08:20.768
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:49:11 AM","11","File created:
+RuleName: EXE
+UtcTime: 2026-11-09 18:49:11.353
+ProcessGuid: {af11dc38-1566-6af2-c100-000000000700}
+ProcessId: 8360
+Image: C:\WINDOWS\Explorer.EXE
+TargetFilename: C:\$Recycle.Bin\S-1-5-21-2208395646-328423824-3459676296-1001\$IC3HCVH.exe
+CreationUtcTime: 2026-11-09 18:49:11.353
+User: DESKTOP-A41C87I\p c"
+"11/9/2026 10:48:04 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 18:48:01.041
+ProcessGuid: {af11dc38-1560-6af2-9f00-000000000700}
+ProcessId: 7656
+Image: C:\WINDOWS\SysWOW64\wbem\mofcomp.exe
+TargetFilename: C:\Windows\System32\wbem\AutoRecover\4E874F47081FB1AD636E428E8BEE03EA.mof
+CreationUtcTime: 2026-11-05 10:52:35.826
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:48:03 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 18:48:00.252
+ProcessGuid: {af11dc38-155e-6af2-9200-000000000700}
+ProcessId: 6968
+Image: C:\WINDOWS\SysWOW64\wbem\mofcomp.exe
+TargetFilename: C:\Windows\System32\wbem\AutoRecover\512144B1BEEA64550F87A2F546ED796E.mof
+CreationUtcTime: 2026-11-05 10:52:35.732
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:48:02 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:47:55.724
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\Tasks\Microsoft\Windows\Clip\ClipESUConsumerProcessECUpdate
+CreationUtcTime: 2026-11-06 09:19:18.705
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:48:02 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:47:55.690
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\Tasks\Microsoft\Windows\Clip\ClipEsuConsumerProcessRefund
+CreationUtcTime: 2026-11-06 09:19:18.690
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:48:02 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:47:55.659
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\Tasks\Microsoft\Windows\Clip\ClipEsuConsumerProcessPreOrder
+CreationUtcTime: 2026-11-06 09:19:18.659
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:48:02 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:47:55.616
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\Tasks\Microsoft\Windows\Clip\ClipESUConsumer
+CreationUtcTime: 2026-11-06 09:19:18.643
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:47:59 AM","11","File created:
+RuleName: -
+UtcTime: 2026-11-09 18:47:49.736
+ProcessGuid: {af11dc38-1555-6af2-5200-000000000700}
+ProcessId: 3104
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\System32\wbem\Repository\WRITABLE.TST
+CreationUtcTime: 2026-11-09 18:47:49.736
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:47:58 AM","11","File created:
+RuleName: T1053
+UtcTime: 2026-11-09 18:47:46.742
+ProcessGuid: {af11dc38-1552-6af2-3500-000000000700}
+ProcessId: 2664
+Image: C:\WINDOWS\system32\svchost.exe
+TargetFilename: C:\Windows\Tasks\SA.DAT
+CreationUtcTime: 2026-11-05 10:58:24.542
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:46:47 AM","11","File created:
+RuleName: EXE
+UtcTime: 2026-11-09 18:46:47.886
+ProcessGuid: {af11dc38-1516-6af2-fe0b-000000000600}
+ProcessId: 2120
+Image: C:\WINDOWS\system32\msiexec.exe
+TargetFilename: C:\Program Files\RUXIM\PLUGScheduler.exe
+CreationUtcTime: 2024-04-27 04:42:32.000
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:46:47 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 18:46:47.870
+ProcessGuid: {af11dc38-1516-6af2-fe0b-000000000600}
+ProcessId: 2120
+Image: C:\WINDOWS\system32\msiexec.exe
+TargetFilename: C:\Program Files\RUXIM\RUXIMPHDialogHandlers.dll
+CreationUtcTime: 2024-04-27 09:04:40.000
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:46:47 AM","11","File created:
+RuleName: EXE
+UtcTime: 2026-11-09 18:46:47.839
+ProcessGuid: {af11dc38-1516-6af2-fe0b-000000000600}
+ProcessId: 2120
+Image: C:\WINDOWS\system32\msiexec.exe
+TargetFilename: C:\Program Files\RUXIM\RUXIMIH.exe
+CreationUtcTime: 2024-04-27 04:42:32.000
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:46:47 AM","11","File created:
+RuleName: EXE
+UtcTime: 2026-11-09 18:46:47.823
+ProcessGuid: {af11dc38-1516-6af2-fe0b-000000000600}
+ProcessId: 2120
+Image: C:\WINDOWS\system32\msiexec.exe
+TargetFilename: C:\Program Files\RUXIM\RUXIMICS.exe
+CreationUtcTime: 2024-04-27 04:42:32.000
+User: NT AUTHORITY\SYSTEM"
+"11/9/2026 10:46:47 AM","11","File created:
+RuleName: DLL
+UtcTime: 2026-11-09 18:46:47.776
+ProcessGuid: {af11dc38-1516-6af2-fe0b-000000000600}
+ProcessId: 2120
+Image: C:\WINDOWS\system32\msiexec.exe
+TargetFilename: C:\Program Files\RUXIM\SystemEvaluator.dll
+CreationUtcTime: 2024-04-27 04:42:20.000
+User: NT AUTHORITY\SYSTEM"
